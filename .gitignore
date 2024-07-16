@@ -1,0 +1,8 @@
+*
+!.gitattributes
+!.gitignore
+!docinfo.html
+!index.adoc
+!index.html
+!assets
+!assets/**

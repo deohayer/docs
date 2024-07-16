@@ -1,0 +1,6 @@
+= Title
+:toc: right
+:docinfo: shared
+:source-highlighter: highlight.js
+:nofooter:
+:data-uri:
